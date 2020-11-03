@@ -76,6 +76,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_VOLU,  	KC_TRNS, X(TRIUMPH),X(THINK),X(SNEEZE),X(PENSIVE),X(WEARY),          X(STAR_STRUCK),X(RELIEVED), KC_TRNS, KC_TRNS, KC_TRNS, KC_UP, KC_TRNS, KC_MPLY,
     KC_VOLD, 	KC_TRNS, X(PLEAD),X(HOT),X(THUMBS_UP),X(HEARTS),X(FLUSH),          X(COWBOY),X(WOOZY), KC_TRNS, KC_TRNS, KC_LEFT, KC_RGHT,          KC_TRNS,
 				KC_TRNS, X(HEART_EYES),X(ROLL_EYES),X(F_SHRUG),X(F_FACEPALM),X(EYES),          X(ZANY), KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_DOWN, KC_TRNS, KC_TRNS,
-				KC_TRNS,          KC_TRNS, KC_TRNS, KC_TRNS,                            KC_TRNS,          UC_MOD,          KC_TRNS
+				KC_TRNS,          KC_TRNS, KC_TRNS, KC_TRNS,                            KC_TRNS,          UC_MOD,          RGB_TOG
   )
 };
